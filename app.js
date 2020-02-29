@@ -1,3 +1,4 @@
+let i = 0;
 function hello(name) {
     let phrase = `Hello, ${name}!`;
     debugger; // <-- the debugger stops here
